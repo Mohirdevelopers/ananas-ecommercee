@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "name": "Google Pixel 9 Pro XL",
+      "price": 19450000,
+      "original_price": 20730000,
+      "storage": "256 GB",
+      "color": "Obsidian",
+      "image": "/pixel9.png",
+      "variant": "Global version",
+      "description": "Google Pixel 9 Pro XL with 256 GB storage in Obsidian color. Global version with cutting-edge camera technology, advanced AI features, and long-lasting battery life."
+    },
+    {
+      "name": "Quloqchin Sony WH-1000XM5",
+      "price": 3800000,
+      "original_price": 4200000,
+      "image": "/sony.png",
+      "description": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones. Industry-leading noise cancellation with exceptional sound quality, touch controls, and up to 30 hours of battery life."
+    },
+    {
+      "name": "Nothing Phone (1)",
+      "price": 5950000,
+      "original_price": 6400000,
+      "storage": "256 GB",
+      "image": "/nothing.png",
+      "color": "Black",
+      "ram": "8 GB",
+      "description": "Nothing Phone (1) with 256 GB storage and 8 GB RAM in Black color. Unique transparent design, powerful performance, and innovative Glyph interface."
+    },
+    {
+      "name": "Sony PlayStation 5 Standard Edition",
+      "price": 8150000,
+      "original_price": 8900000,
+      "image": "/ps5.png",
+      "description": "Sony PlayStation 5 Standard Edition. Experience next-gen gaming with lightning-fast loading times, stunning graphics, and an expansive library of exclusive titles."
+    },
+    {
+      "name": "Xiaomi 14 Ultra",
+      "price": 13700000,
+      "original_price": 14850000,
+      "storage": "512 GB",
+      "ram": "16 GB",
+      "image": "/xiomi.png",
+      "color": "Black",
+      "description": "Xiaomi 14 Ultra with 16 GB RAM and 512 GB storage in Black color. Featuring a cutting-edge camera system, vibrant display, and powerful performance."
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "price": 19450000,
+      "original_price": 20730000,
+      "image": "/applewatch.png",
+      "size": "41 mm",
+      "description": "Apple Watch Series 9 with 41 mm case size. Track your health, stay connected, and access a wide range of apps, all from your wrist."
+    },
+    {
+      "name": "Apple iPhone 15 Pro Max",
+      "price": 19450000,
+      "original_price": 20730000,
+      "storage": "256 GB",
+      "image": "/iphone.png",
+      "color": "Natural Titanium",
+      "description": "Apple iPhone 15 Pro Max with 256 GB storage in Natural Titanium. Featuring a 6.7-inch OLED display, A17 Pro chip, ProMotion, and advanced camera system."
+    },
+    {
+      "name": "Quloqchin Nothing Ear (stick)",
+      "price": 19450000,
+      "original_price": 20730000,
+      "image": "/nothingear.png",
+      "description": "Nothing Ear (stick) True Wireless Earbuds. Comfortable design, clear sound, and up to 7 hours of listening time on a single charge."
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 19450000,
+      "original_price": 20730000,
+      "storage": "256 GB",
+      "ram": "12 GB",
+      "image": "/s24.png",
+      "color": "Titanium",
+      "description": "Samsung Galaxy S24 Ultra with 12 GB RAM and 256 GB storage in Titanium color. Features an expansive display, advanced camera system, and S Pen support."
+    },
+    {
+      "name": "Aqlli kolonka Yandex stantsiya Max",
+      "price": 19450000,
+      "original_price": 20730000,
+      "image": "/yandex.png",
+      "description": "Yandex Stantsiya Max Smart Speaker with Alisa voice assistant. Premium sound quality, voice control, and smart home integration."
+    }
+  ]
+}
